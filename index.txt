@@ -9,8 +9,11 @@
 <body>
   <div class="card">
     <h1>Fun facts</h1>
-    <p id="fact"> Did you know a cloud weighs a million tonnes </p>
-    <button id="changeButton">Show another fun fact</button>
+    <p id="fact">Did you know a cloud weighs a million tonnes?</p>
+
+    <!-- Two buttons -->
+    <button id="changeButton1">Show fun fact 1</button>
+    <button id="changeButton2">Show fun fact 2</button>
   </div>
 
   <script src="script.js"></script>
