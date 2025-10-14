@@ -8,13 +8,8 @@
 </head>
 <body>
   <div class="card">
-    <h1>My favorite hobby</h1>
+    <h1>Fun facts</h1>
     <p id="fact"> Did you know a cloud weighs a million tonnes </p>
-<p>I like cheesecake</p>
-<p>I like cookies</p>
-<p>I like macarons</p>
-<p> Cookie ingredients: cookie dough and chocolate chips</p>
-<p> I like figure skating</p>
     <button id="changeButton">Show another fun fact</button>
   </div>
 
